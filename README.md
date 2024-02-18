@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dilip palani</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Software Development Engineer</h3>
 
-- 🔭 I’m currently working on **EdTech**
+- 🔭 I’m currently working on **Ed-Tech**
 
 - 📫 How to reach me **dilippalani5511@gmail.com**
 
